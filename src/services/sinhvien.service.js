@@ -75,7 +75,7 @@ const deleteSinhvienById = async (sinhvienId) => {
   await sinhvien.remove();
   return sinhvien;
 };
-
+/**123123 */
 module.exports = {
   createSinhvien,
   querySinhviens,
